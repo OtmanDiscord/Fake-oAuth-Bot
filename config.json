@@ -1,5 +1,5 @@
 {
-    "prefix":"!", //Bot Prefix
-    "token":"BOT TOKEN" //Bot's Token (use a new discord bot token owned by an alt account to preview it from getting banned and resulting your main account banned too.)
+    "prefix": "!",
+    "token": "BOT TOKEN"
 }
 
