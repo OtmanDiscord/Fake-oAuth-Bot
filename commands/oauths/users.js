@@ -5,6 +5,6 @@ module.exports = {
         usage: `!users`,
     },
     async run (bot,message,args) {
-        message.channel.send("> <:user:1061695086041239672> Il y'a `10,864` utilisateurs dans ma db.");
+        message.channel.send("> 💯 Il y'a `10,864` utilisateurs dans ma db. \n Tapez `!joinall` pour lancer un join-all, ou `!refresh` pour rafraîchir la db !");
     }
 }
