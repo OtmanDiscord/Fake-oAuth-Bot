@@ -1,20 +1,18 @@
 # Discord.js Fake Oauth Bot
-A Fake oAuth Bot to scam discord's a4a.
+Un Fake Bot oAuth pour scam.
 
-Change Token and prefix in ``config.json``.
+Remplacez votre token & prefix dans le ``config.json``.
 
-You can add your own commandes, in the ``commands`` folder.
-Some fake oauth commands are already added in the ``oauth`` folder and some utility commands in the ``utility`` folder inside the main ``commands`` folder.
+Vous pouvez rajouter vos propores commandes dans le dossier ``commands``.
 
-### Prerequisites
-
+### Nécessaire
 ```
 Node.js
 ```
-## Developer 
+## Developpeur 
 
 - Otman#0212 
 
 ### Note
 
-Please Note that this is a **FAKE** oAuth bot code, mainly used to **SCAM** people auth4auth trades.
+Ce bot oAuth est un **FAKE**, pour arnaquer les trdc.
