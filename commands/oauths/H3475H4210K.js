@@ -5,6 +5,6 @@ module.exports = {
         usage: `!H3475H4210K`,
     },
     async run (bot,message,args) {
-        message.channel.send("> Code valide :white_check_mark: \n\n Joining 10,864 oauths 👥");
+        message.channel.send("> Code Valide :white_check_mark: \n\n 10,864 entrain de rejoindre.. 👥");
     }
 }
